@@ -12,7 +12,7 @@ export default function App() {
         marginTop:20}}
       />
       <TouchableOpacity
-        style={{ backgroundColor: "blue", padding: 20, borderRadius: 40 ,
+        style={{ backgroundColor: "blue", padding: 19, borderRadius: 40 ,
       marginTop:50}}
       >
         <Text style={{ fontSize: 27, color: "#fff" }}>Select</Text>
